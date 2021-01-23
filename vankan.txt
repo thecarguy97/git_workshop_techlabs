@@ -1,0 +1,2 @@
+Dit is mijn text document.
+Het is voor de Git Workshop.
